@@ -1,29 +1,49 @@
-<!-- Masthead GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="800" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Web3 & Backend Developer</title>
+<style>
+  body {
+    margin: 0;
+    height: 100vh;
+    background: url('your-gif.gif') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+  }
 
-<!-- Profile Heading -->
-<h1 align="center">Hi 👋, I'm Batman</h1>
-<h3 align="center">A passionate Web3 & Backend Developer</h3>
+  .overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4); /* optional dark overlay for better blending */
+    top: 0;
+    left: 0;
+  }
 
-<!-- Your generated coding image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/coding_image.png" alt="Web3 Developer" width="600" />
-</p>
+  .coding-img {
+    position: relative;
+    max-width: 500px;
+    width: 80%;
+    z-index: 2;
+    mix-blend-mode: lighten; /* makes image blend with bg */
+    animation: float 4s ease-in-out infinite;
+  }
 
-<!-- About Section -->
-<p align="center">
-  🚀 Skilled in Web3, Smart Contracts, Blockchain Development, and Backend APIs.<br>
-  💡 Always exploring new technologies and building innovative projects.<br>
-</p>
-
-<!-- Animated Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
-</p>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+</style>
+</head>
+<body>
+  <div class="overlay"></div>
+  <img src="coding-image.png" alt="Coding" class="coding-img">
+</body>
+</html>
