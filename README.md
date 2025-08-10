@@ -2,22 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate Backend and Solidity developer from India</h3>
-
-<div style="position: relative; text-align: center;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-       alt="Coding"
-       width="400"
-       style="
-         position: relative;
-         z-index: 2;
-         margin-top: -50px;
-         mix-blend-mode: lighten;
-         opacity: 0.95;
-         border-radius: 10px;
-       ">
-</div>
-
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yash200691&label=Profile%20views&color=0e75b6&style=flat" alt="yash200691" /> 
 </p>
