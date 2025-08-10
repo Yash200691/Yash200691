@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate Backend and Solidity developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=yash200691&label=Profile%20views&color=0e75b6&style=flat](https://chatgpt.com/s/m_6898e7856068819191d6f94880ac4a68)" alt="yash200691" /> </p>
+<p align="left"> <img src="https://chatgpt.com/s/m_6898e7856068819191d6f94880ac4a68" alt="yash200691" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yashshinde512" target="blank"><img src="https://img.shields.io/twitter/follow/yashshinde512?logo=twitter&style=for-the-badge" alt="yashshinde512" /></a> </p>
 
